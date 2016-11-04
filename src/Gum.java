@@ -30,5 +30,4 @@ public class Gum extends Snack {
     }
 
 
-
 }

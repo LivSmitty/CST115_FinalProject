@@ -2,7 +2,7 @@
  * Created by scott_000 on 10/27/2016.
 
  */
-public class Candy extends Snack {
+public class Candy extends Snack implements Comparable<Product> {
     String productName;
     double productPrice;
     private String productType = "Snack";
@@ -23,6 +23,7 @@ public class Candy extends Snack {
         productName = x.name;
         productPrice = x.price;
     }
+
 
     @Override
     public String toString() {
