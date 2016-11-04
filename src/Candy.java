@@ -1,5 +1,6 @@
 /**
  * Created by scott_000 on 10/27/2016.
+
  */
 public class Candy extends Snack {
     String productName;
@@ -27,4 +28,7 @@ public class Candy extends Snack {
     public String toString() {
         return super.toString();
     }
+
+
+
 }
