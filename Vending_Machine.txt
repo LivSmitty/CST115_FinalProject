@@ -1,0 +1,13 @@
+Dorito's, 15
+Ruffles, 10
+Pringles, 10
+Snickers, 12
+BabyRuth, 14
+M&M's, 3
+Wrigley, 5
+Big Red, 7
+Juicy Fruit, 11
+Coke, 4
+Sprite, 8
+Diet Coke, 5
+
