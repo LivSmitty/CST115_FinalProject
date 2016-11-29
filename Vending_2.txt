@@ -1,0 +1,14 @@
+Coke,5,.50
+Sprite,3,.50
+Crush,13,.50
+M&M's,14,.25
+Hersheys,4,.25
+Starbursts,6,.25
+Wrigley,1,.25
+Big Red,3,.25
+Spearmint,8,.25
+Doritos,11,.50
+Pringles,10,.50
+Sunchips,16,.50
+
+

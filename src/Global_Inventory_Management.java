@@ -1,3 +1,5 @@
+
+
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -14,6 +16,7 @@ public class Global_Inventory_Management {
 
     static String xStrPath;
     static String[][] myArray;
+
 
     static void setUpMyCSVArray() {
         myArray = new String[12][2];
