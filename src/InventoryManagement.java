@@ -14,7 +14,7 @@ import javafx.util.Duration;
 
 public class InventoryManagement extends Application{
     //Stock array: Drink
-    String[][] drinkStockArray = {
+    public static String[][] drinkStockArray = {
             {"Coke", "Crush", "Sprite", "Water"},
             {"10", "10", "10", "10"}
     };
@@ -22,19 +22,19 @@ public class InventoryManagement extends Application{
 
 
     //Stock array: Candy
-    String[][] candyStockArray = {
+    public static String[][] candyStockArray = {
             {"M&M's", "Snickers", "Hershey", "100 Grand"},
             {"10", "10", "10", "10"}
     };
 
     //Stock array: Gum
-    String[][] gumStockArray = {
+    public static String[][] gumStockArray = {
             {"Big Red", "Spearmint", "Peppermint", "Juicy Fruit"},
             {"10", "10", "10", "10"}
     };
 
     //Stock array: Chips
-    String[][] chipStockArray = {
+    public static String[][] chipStockArray = {
             {"Dorito's", "Pringles", "Fritos", "Barbeque"},
             {"10", "10", "10", "10"}
     };
